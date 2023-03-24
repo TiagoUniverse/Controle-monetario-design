@@ -66,7 +66,7 @@ footer{
     /* background-color: red; */
 }
 
-.input-pesquisar select, button{
+.input-pesquisar-items{
     width: 100px;
     font-size: 17px;
 }
@@ -89,6 +89,12 @@ footer{
 
 .nav-bar form{
     display: inline-block;
+    /* width: 100px; */
+}
+
+.nav-bar button{
+    height: 47px;
+    font-size: 16px; 
 }
 
 .nav-bar-selecionado{
@@ -104,3 +110,4 @@ footer{
     border-radius: 5px;
     color: white;
 }
+

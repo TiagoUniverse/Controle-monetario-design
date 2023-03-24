@@ -25,22 +25,22 @@
       <button type="submit" class="nav-bar-desmarcado">Registros da casa</button>
     </form>
     <div class="dropdown">
-      <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+      <button onclick="myFunction()" class="dropbtn">Configurações</button>
       <div id="myDropdown" class="dropdown-content">
-        <a href="#">Link 1</a>
-        <a href="#">Link 2</a>
-        <a href="#">Link 3</a>
+        <a href="#">Perfil: <b>Tiago</b></a>
+        <a href="#">Alterar senha</a>
+        <a href="#">Sair</a>
       </div>
     </div>
   </div>
   <form method="POST" action="home.php" class="input-pesquisar">
-    <select name="ano">
+    <select name="ano" class="input-pesquisar-items">
       <?php
       for ($year = (int)date('Y'); 1900 <= $year; $year--) : ?>
         <option value="<?= $year; ?>" n><?= $year; ?></option>
       <?php endfor; ?>
     </select>
-    <button type="submit" class="btn btn-primary">Pesquisar</button>
+    <button type="submit" class="input-pesquisar-items">Pesquisar</button>
   </form>
   <div class="gallery">
     <img src='Assets//Img//1.png' alt="january">
