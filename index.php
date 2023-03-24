@@ -25,7 +25,10 @@
       <button type="submit" class="nav-bar-desmarcado">Registros da casa</button>
     </form>
     <div class="dropdown">
-      <button onclick="myFunction()" class="dropbtn">Configurações</button>
+      <button onclick="myFunction()" class="dropbtn">
+        Configurações
+        <img src="Assets//Icon//dropdown.png">
+      </button>
       <div id="myDropdown" class="dropdown-content">
         <a href="#">Perfil: <b>Tiago</b></a>
         <a href="#">Alterar senha</a>

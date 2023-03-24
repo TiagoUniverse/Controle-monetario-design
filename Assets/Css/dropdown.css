@@ -11,6 +11,11 @@
     height: 50px;
 }
 
+.dropbtn img{
+    max-height: 10px;
+}
+
+
 /* Dropdown button on hover and focus */
 .dropbtn:hover, .dropbtn:focus{
     background-color: #2980B9;
