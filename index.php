@@ -46,19 +46,19 @@
     <button type="submit" class="input-pesquisar-items">Pesquisar</button>
   </form>
   <div class="gallery">
-    <img src='Assets//Img//1.png' alt="january">
-    <img src='Assets//Img//february.png' alt="february">
-    <img src='Assets//Img//march.png' alt="march">
-    <img src='Assets//Img//april.png' alt="april">
-    <img src='Assets//Img//may.png' alt="may">
-    <img src='Assets//Img//june.png' alt="june">
-    <img src='Assets//Img//july.png' alt="July">
-    <img src='Assets//Img//august.png' alt="August">
-    <img src='Assets//Img//september.png' alt="september">
-    <img src='Assets//Img//october.png' alt="october">
-    <img src='Assets//Img//november.png' alt="november">
-    <img src='Assets//Img//december.png' alt="december">
-    <img src='Assets//Img//savings.png' alt="savings">
+    <img src='Assets//img//1.png' alt="january">
+    <img src='Assets//img//february.png' alt="february">
+    <img src='Assets//img//march.png' alt="march">
+    <img src='Assets//img//april.png' alt="april">
+    <img src='Assets//img//may.png' alt="may">
+    <img src='Assets//img//june.png' alt="june">
+    <img src='Assets//img//july.png' alt="July">
+    <img src='Assets//img//august.png' alt="August">
+    <img src='Assets//img//september.png' alt="september">
+    <img src='Assets//img//october.png' alt="october">
+    <img src='Assets//img//november.png' alt="november">
+    <img src='Assets//img//december.png' alt="december">
+    <img src='Assets//img//savings.png' alt="savings">
   </div>
   <footer>
     Tiago Universe, PE 2023.
